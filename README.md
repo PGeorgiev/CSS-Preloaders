@@ -1,6 +1,6 @@
-### Tuts+ Tutorial: Creating a Collection of CSS3 Animated Preloaders
+### Creating a Collection of CSS3 Animated Preloaders
 
-#### Instructor: Aaron Lumsden
+#### PGeorgiev
 
 A tutorial for showing you how to create a collection of pre-loaders for your web projects using nothing but HTML and CSS3.
 
